@@ -1,0 +1,2 @@
+Prefix plugins/PredictClass/example/
+Plugin PredictClass inputfile parameters.txt outputfile sonar.predict.class.csv
